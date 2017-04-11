@@ -20,7 +20,7 @@ TOPIC 4.
 -Find fake reviews on Retailer's website.
 Many retailers often face a peculiar problem where imposters post misleading information about products/services provided by the Retailers. This can affect their brand value and thus they need to flag/remove such comments periodically. For this we can use Machine Learning/Spark to detect the fake reviews and flag them.
 
- TOPIC 5.
+ TOPIC 5. - APPROVED
  
  -Help insurance companies identify risky and cautious drivers
 Develop a cloud service which could be integrated and used by Insurance companies to identify risky and cautious auto drivers. The service should have subscription based offering. The statistical and machine learning model would use driving records of various drivers (historical data) and predict a risky driving behavior. Develop a dashboard for Insurance data analyst to visualize and predict.
